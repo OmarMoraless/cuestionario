@@ -1,0 +1,67 @@
+[
+      {
+        "pregunta": "¿Tus padres o tutores tienen problemas de comunicación o relaciones tensas contigo?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Hay antecedentes de adicciones en tu familia?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "Alguien te ha dicho que no eres nadie en la vida?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Te sientes importante para la vida de los demás?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Tu entorno familiar te da motivación para cumplir metas?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Sufres de problemas de autoestima o confianza en ti mismo?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Sufres de problemas de salud mental no tratados, como la depresión o la ansiedad?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Tienes amigos que consumen drogas o se relacionan con personas que consumen drogas?",
+        "tipo": "riesgo"
+      },
+      {
+        "pregunta": "¿Tienes una comunicación abierta y efectiva con tus padres o tutores?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tus padres o tutores son un modelo positivo de comportamiento y hábitos saludables para ti?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tus padres o tutores proporcionan un ambiente seguro y estable en el hogar?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tienes una red de apoyo positiva, como amigos o familiares que apoyan tus decisiones saludables?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tienes acceso a actividades saludables y deportes?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tienes habilidades de resolución de problemas y toma de decisiones saludables?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tienes una identidad y sentido de propósito en la vida?",
+        "tipo": "proteccion"
+      },
+      {
+        "pregunta": "¿Tienes una autoestima saludable y confianza en ti mismo?",
+        "tipo": "proteccion"
+      }
+    ]
+  
